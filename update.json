@@ -6,7 +6,7 @@
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
   "notificationMessage": "Jika anda menyukai aplikasi ini berikin dukungan  dichannel telegram resmi kami serta berikan komentar anda. TerimaKasih",
-  "showCountdown": false,
-  "countdownMessage": "Sistem dalam perbaikan",
-  "releaseTimestamp": 1793548838000
+  "showCountdown": true,
+  "countdownMessage": "Silakan gunakan versi terbaru untuk kenyamanan bermain.",
+  "releaseTimestamp": 1793688947000
 }

@@ -5,7 +5,7 @@
   "changelog": "Perbaikan Bypass dan fitur Bahasa.",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
-  "notificationMessage": "Bypass keamanan dalam pengujian, harap berhati-hati.", "Bypass keamanan dalam pengujian, harap berhati-hati.",
+  "notificationMessage": "Bypass keamanan dalam pengujian, harap berhati-hati.",
   "showCountdown": true,
   "countdownMessage": "Inisialisasi upgrade sistem... Dekripsi data sedang diproses. Akses Aplikasi akan segera dibuka.",
   "releaseTimestamp": 1793710752000

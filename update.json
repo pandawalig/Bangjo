@@ -5,8 +5,8 @@
   "changelog": "Perbaikan Bypass dan fitur Bahasa.",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
-  "notificationMessage": "Silakan gunakan versi terbaru untuk kenyamanan bermain.",
-  "showCountdown": false,
-  "countdownMessage": "App Closed: PUBGM 4.7.0 is now available",
-  "releaseTimestamp": 1825902885000
+  "notificationMessage": "Jika anda menyukai aplikasi ini berikin dukungan  dichannel telegram resmi kami serta berikan komentar anda. TerimaKasih",
+  "showCountdown": true,
+  "countdownMessage": "Sistem dalam perbaikan",
+  "releaseTimestamp": 1794483213000
 }

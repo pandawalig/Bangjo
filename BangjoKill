@@ -1,4 +1,4 @@
 {
-  "showCountdown": false,
+  "showCountdown": true,
   "countdownMessage": "Sistem dalam perbaikan"
 }

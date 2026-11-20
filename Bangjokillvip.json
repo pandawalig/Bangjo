@@ -1,5 +1,5 @@
 {
-  "keyStore": false,
+  "keyStore": true,
   "showCountdown": false,
   "countdownMessage": "DICE NOOOOOBBB....!!!!!!!"
 }

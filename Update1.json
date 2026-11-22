@@ -9,7 +9,7 @@
   "showCountdown": false,
   "countdownMessage": "Sistem dalam perbaikan",
   "releaseTimestamp": 1792885869000,
-  "aimUnlocked": true,
+  "aimUnlocked": false,
   "aimLockBadge": "🔒  AIM DALAM PEMELIHARAAN",
   "aimLockMessage": "AimBot dalam perbaikan",
   "aimLockHint": "Selalu bermain aman, agar terhindar dari report"

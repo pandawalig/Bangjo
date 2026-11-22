@@ -9,5 +9,8 @@
   "showCountdown": true,
   "countdownMessage": "Sistem dalam perbaikan",
   "releaseTimestamp": 1795186806000,
-  "aimUnlocked": false
+  "aimUnlocked": false,
+  "aimLockBadge": "🔒  AIMBOT LOCKED",
+  "aimLockMessage": "Khusus pengguna berbayar",
+  "aimLockHint": "Aktifkan status berbayar untuk membuka menu AIM"
 }

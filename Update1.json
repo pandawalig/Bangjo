@@ -9,7 +9,7 @@
   "showCountdown": true,
   "countdownMessage": "Closed",
   "releaseTimestamp": 1921793513000,
-  "aimUnlocked": true,
+  "aimUnlocked": false,
   "aimLockBadge": "🔒  AIM DALAM PEMELIHARAAN",
   "aimLockMessage": "AimBot dalam perbaikan",
   "aimLockHint": "Selalu bermain aman, agar terhindar dari report"
